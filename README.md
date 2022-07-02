@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/responsive-order-summary-card-BydkPZeH9)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-order-summary-card-BydkPZeH9)
 - Live Site URL: [Live Site](https://finney06.github.io/order-summary/)
 
 ## My process
